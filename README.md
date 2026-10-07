@@ -1,4 +1,5 @@
 # LOOP Insights – AI Customer Feedback Intelligence Platform
+   Live demo: https://your-app-link.streamlit.app
 
 **Listen. Understand. Improve.**
 
